@@ -3,7 +3,7 @@
 ###### codename: n2c
 *_Mapping NDCs to Anatomical Therapeutic Chemical (ATC) Level 4_*
 
-**This script is a newer version of https://github.com/fabkury/ndc_map . Please use this one and not ndc_map.**
+## **This script is a newer version of https://github.com/fabkury/ndc_map . Please use this one and not ndc_map. ndc_map is deprecated and might not work if you try. This script does not have all features of ndc_map, but it will be the one receiving updates moving forward.**
   
 This script provides the ATC classes of each FDA National Drug Code (NDC) in an input file. The input file is a simple text list with one NDC per line. The script works by querying the online RxNorm API at https://rxnav.nlm.nih.gov/.  
   
