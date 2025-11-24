@@ -3,8 +3,12 @@
 ###### codename: n2c
 *_Mapping NDCs to Anatomical Therapeutic Chemical (ATC) Level 5 or 4_*
 
-## **This script is a newer version of https://github.com/fabkury/ndc_map . Please use this one and not ndc_map.**
-  
+#### **This script is a newer version of https://github.com/fabkury/ndc_map. Please use this one and not ndc_map.**
+
+## Graphical user interface: https://andystats.shinyapps.io/NDC_ATC4_conversions/
+Thanks to Andy Wilson for creating this nice Shiny App! Use it if you don't want to "touch" Python or the command line.
+
+## n2c
 This script provides the ATC-4 or ATC-5 classes of each FDA National Drug Code (NDC) in an input file. The input file is a simple text list with one NDC per line. The script works by querying the online RxNorm API at https://rxnav.nlm.nih.gov/.  
   
 This script is just a helper to query the API in bulk and write the resposes to a convenient CSV file. The mappings themselves are maintained and provided for free by RxNorm.  
