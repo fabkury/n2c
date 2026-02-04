@@ -5,7 +5,7 @@
 
 #### **This script is a newer version of https://github.com/fabkury/ndc_map. Please use this one and not ndc_map.**
 
-## Graphical user interface: https://andystats.shinyapps.io/NDC_ATC4_conversions/
+## Graphical user interface: https://andystats.shinyapps.io/NDC_ATC45_conversions/
 Thanks to Andy Wilson for creating this nice Shiny App! Use it if you don't want to "touch" Python or the command line.
 
 ## n2c
